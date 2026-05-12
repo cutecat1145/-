@@ -12,7 +12,7 @@
 ##  Demo 演示
 
 
-## 🛠️ 技术栈
+## 技术栈
 - **硬件：** Raspberry Pi 5 (2GB), USB Camera
 - **算法：** 
   - 检测：YOLOv8-face (ONNX)
@@ -20,8 +20,3 @@
   - 活体：Haar Cascades (Blink Detection)
 - **语言/库：** Python 3.10+, OpenCV-Python-Contrib, NumPy
 
-## 快速开始
-
-### 1. 安装依赖
-```bash
-pip install opencv-contrib-python numpy
