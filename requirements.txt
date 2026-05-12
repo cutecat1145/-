@@ -1,0 +1,15 @@
+# 核心视觉与算法
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+
+# 深度学习后端
+torch
+torchvision
+
+# 树莓派硬件相关
+picamera2
+
+# 辅助工具
+tqdm
+pyyaml
