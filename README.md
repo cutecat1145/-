@@ -34,3 +34,19 @@
   - 活体：Haar Cascades (Blink Detection)
 - **语言/库：** Python 3.10+, OpenCV-Python-Contrib, NumPy
 
+## 快速开始
+
+### 1. 安装依赖
+```bash
+pip list --format=freeze > requirements.txt
+```
+### 2. 运行
+运行main.py即可
+如果想在树莓派上实现，需要现在树莓派上配置虚拟环境，然后将所有该项目列出的文件存入树莓派中的工程文件夹
+运行：
+```bash
+python main.py
+```
+即可使用（请先激活环境）
+
+
