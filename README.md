@@ -2,7 +2,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%205-red)](https://www.raspberrypi.com/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue)](https://opencv.org/)
 这是一个专为嵌入式设备（树莓派 5）优化的智能门锁方案。通过级联高性能的人脸检测与识别模型，实现了**高精度识别 + 眨眼活体防御**。
-## ⚖️ 开源声明与致谢 (Acknowledgements)
+## 开源声明与致谢
 
 本项目的核心功能依赖于以下优秀开源模型及仓库，特此致谢：
 
